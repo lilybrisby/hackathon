@@ -2,9 +2,9 @@ Project idea:
 
 Team Leader:Christian
 
-All Members:Don, Mark, Larry
+All Members:Don, David, Larry
 Mission jobs:
-Mark- HTML body;
+David- HTML body;
 Don- Gather outscorce;
 Larry- CSS;
 Christian- Java;
