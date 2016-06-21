@@ -8,3 +8,9 @@ Mark-
 Don-
 Larry-
 Christian-
+
+
+git pull
+git add .
+git commit -m "the message"
+git push
