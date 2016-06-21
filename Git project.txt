@@ -4,10 +4,10 @@ Team Leader:Christian
 
 All Members:Don, Mark, Larry
 Mission jobs:
-Mark-
-Don-
-Larry-
-Christian-
+Mark- HTML body;
+Don- Gather outscorce;
+Larry- CSS;
+Christian- Java;
 
 
 git pull
