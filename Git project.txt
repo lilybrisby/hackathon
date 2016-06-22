@@ -2,7 +2,7 @@ Project idea:
 
 Team Leader:Christian
 
-All Members:Don, David, Larry, Corey
+All Members: Don, David, Larry, for learning pourposes: Corey
 Mission jobs:
 David- HTML body;
 Don- Gather outscorce;

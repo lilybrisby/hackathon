@@ -1,1 +1,1 @@
-blank
+$('#hide').fadeOut(6000);
